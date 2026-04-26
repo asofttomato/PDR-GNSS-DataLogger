@@ -24,4 +24,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "PDR4"
 include(":app")
-include(":pdr-algorithm")
