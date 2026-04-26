@@ -4,6 +4,7 @@
 ## 部署方法：
 - 在新版Android Studio里可以直接克隆仓库并运行。方法：File-->New-->Project from Version Control
 - 也可以在release里下载最新版的apk直接使用。
+**注意**：底图使用OSM底图，国内需要梯子才能加载
 ## 主要特性
 
 * **实时 PDR 推算**：内置动态阈值步态检测算法与 Weinberg 步长估算模型，支持根据用户身高动态调整计算参数。
